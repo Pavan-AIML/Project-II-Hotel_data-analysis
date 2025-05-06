@@ -1,6 +1,7 @@
 # Hotel-data-analysis 
 
 This is a personal project where I have downloaded the data from kaggle and did the following analysis. 
+
 Data reading. 
 
 > From downloadign the data and converting it to pandas data frame and reading it. 
